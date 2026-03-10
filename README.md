@@ -137,4 +137,5 @@ Collections:
 ## Deployment
 
 This project is deployed on **Replit** and can be accessed using the public link shared with the submission.
+https://smart-meeting-room-api--sahilcr7lm10.replit.app/swagger-ui/index.html#/
 ****
