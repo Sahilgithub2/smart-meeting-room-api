@@ -37,3 +37,8 @@ Collections:
 - users
 - rooms
 - bookings
+
+
+
+<img width="1532" height="896" alt="image" src="https://github.com/user-attachments/assets/073ba39d-c128-4684-b336-7627c3ca8017" />
+
